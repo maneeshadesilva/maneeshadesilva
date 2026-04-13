@@ -1,44 +1,51 @@
-<h1 align="center">Hi 👋, I'm Maneesha De Silva</h1>
+<h1 align="center">I'm Maneesha De Silva</h1>
 
 <p align="center">
-  🚀 Aspiring Software Engineer | 💻 Full Stack Learner | 🤖 AI & Chrome Extension Builder
+🎓 Computer Science Undergraduate | 📊 Data Science & Analytics Trainee | 🤖 Machine Learning Enthusiast
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 Technical Skills
 
-- 🎓 Passionate about Software Engineering & AI
-- 🌱 Currently improving my skills in Java, JavaScript, React & Node.js
-- 🚀 Building my Chrome Extension project **Cogni**
-- 🎯 Goal: Become a skilled Software Engineer & build impactful products
-- 🌍 From Sri Lanka 🇱🇰
+### 📊 Data Science & Machine Learning
+- Data Cleaning & Preprocessing  
+- Feature Engineering  
+- Model Training & Evaluation  
+- Model Deployment Basics  
+- Predictive Analytics  
 
----
+### 🤖 Machine Learning Models
+- Logistic Regression  
+- Decision Trees  
+- Random Forest  
+- XGBoost  
+- Neural Networks  
 
-## ⚒️ Tech Stack
-
-<p align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</p>
+### 💻 Programming & Tools
+- Python  
+- SQL  
+- Java (basic understanding)  
+- Jupyter Notebook  
+- Git & GitHub  
 
 ---
 
 ## 🚀 Projects
 
-### 📌 Cogni Chrome Extension
-- AI-powered learning assistant for YouTube
-- Features: quizzes, summaries, chatbot
-- Built using: React + TypeScript + Node.js
+### 📌 Cogni – Chrome Extension (AI Learning Assistant)
+- Built a Chrome extension to enhance video-based learning  
+- Provides AI-based quizzes, summaries, and interactive learning support  
+- Focused on improving user engagement and understanding  
+- Technologies: JavaScript / TypeScript / React (if applicable)
 
 ---
+
+### 📌 Telecom Customer Churn Prediction
+- Built machine learning models to predict customer churn  
+- Applied classification algorithms like Random Forest, XGBoost, Logistic Regression  
+- Focused on model evaluation and performance tuning  
+
 
 ## 📊 GitHub Stats
 
@@ -58,12 +65,12 @@
 
 ## 🌐 Connect with Me
 
-- GitHub: https://github.com/maneeshadesilva
-- LinkedIn: (add your link here)
-- Email: (add your email)
+- GitHub: https://github.com/maneeshadesilva  
+- LinkedIn: (add here)  
+- Email: (optional)  
 
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 </p>
