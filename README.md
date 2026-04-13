@@ -3,7 +3,6 @@
 <p align="center">
 🎓 Computer Science Undergraduate | 📊 Data Science & Analytics Trainee | 🤖 Machine Learning Enthusiast
 </p>
-
 ---
 
 ## 🧠 Technical Skills
