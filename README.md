@@ -66,8 +66,7 @@
 ## 🌐 Connect with Me
 
 - GitHub: https://github.com/maneeshadesilva  
-- LinkedIn: (add here)  
-- Email: (optional)  
+- LinkedIn: https://www.linkedin.com/in/maneesha-amodh/   
 
 ---
 
